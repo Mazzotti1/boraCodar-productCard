@@ -51,6 +51,9 @@
         padding-top: 75%;
       }
       #rotateButton{
-        bottom: 39%;
+        bottom: 32%;
+      }
+         .textContainer{
+        margin: auto;
       }
     }
