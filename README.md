@@ -4,6 +4,13 @@ Foi dado a liberdade para construir com a tecnologia de preferência.<br>
 
 Escolhi o React para continuar aprofundando minhas habilidades no front-end
 
+<table>
+    <td>
+      Link para o projeto: productcard-ten.vercel.app
+    </td>
+</table>
+
+
 ##  O card é composto por:
 
 - **Componente Card:** Elemento pai que gerencia as funções de clique;
