@@ -4,11 +4,10 @@ Foi dado a liberdade para construir com a tecnologia de preferência.<br>
 
 Escolhi o React para continuar aprofundando minhas habilidades no front-end
 
-<table>
+
    
       Link para o projeto: productcard-ten.vercel.app
-   
-</table>
+ 
 
 
 ##  O card é composto por:
