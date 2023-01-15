@@ -8,7 +8,7 @@ Escolhi o React para continuar aprofundando minhas habilidades no front-end
    
 <table>
     <td>
-  <a href="https://productcard-ten.vercel.app/" rel="noreferrer noopener" target="_blank" >Veja o projeto</a>
+  <a href="https://productcard-ten.vercel.app/" target="_blank" rel="noopener noreferrer" >Veja o projeto</a>
     </td>
 </table>
 
