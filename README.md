@@ -6,7 +6,12 @@ Escolhi o React para continuar aprofundando minhas habilidades no front-end
 
 
    
-      Link para o projeto: productcard-ten.vercel.app
+<table>
+    <td>
+  <a href="productcard-ten.vercel.app">Veja o projeto</a>
+    </td>
+</table>
+
  
 
 
