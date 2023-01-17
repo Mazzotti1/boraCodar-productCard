@@ -27,7 +27,7 @@ Escolhi o React para continuar aprofundando minhas habilidades no front-end
 Neste projeto apliquei os seguintes pontos:
 + Responsividade
 + Design idêntico ao projeto original
-+ Código limpo orientado aos objetos
+
 
 ## Tecnologias utilizadas:
 
